@@ -56,3 +56,5 @@ erstellt. Die Datensätze einzelner Studenten werden als Kacheln angezeigt und a
 
 Darüberhinaus wurde eine Formularkomponente zum Anlegen eines neuen Datensatzes erstellt, wobei sich der `genNewId()`-Hilfsfunktion aus der `data.js` bedient wurde, um eine eindeutige ID für neue Datensätze zu generieren. Für das Profil-Bild eines neu angelegten Datensatzes kommt `Faker.js` zum Einsatz. <br>
 Die Seite ist responsive.
+
+(Design & Development by Susann Gailus)
